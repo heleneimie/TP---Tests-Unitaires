@@ -1,0 +1,26 @@
+{
+  "name": "tp-tu-wmd03_helene",
+  "version": "1.0.0",
+  "description": "TP tests unitaires - WMD03",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heleneimie/TP---Tests-Unitaires.git"
+  },
+  "author": "Hélène GAILLARD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heleneimie/TP---Tests-Unitaires/issues"
+  },
+  "homepage": "https://github.com/heleneimie/TP---Tests-Unitaires#readme",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.1.1"
+  }
+}
