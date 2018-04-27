@@ -5,13 +5,16 @@ Cloner le projet : https://github.com/heleneimie/TP---Tests-Unitaires.git
 Se déplacer dans le projet
 
 Initialiser NodeJS : _npm init_
+
 Installer le framework de test Mocha (environnement dev) : _npm install mocha -D_ ; (de manière globale) : _npm install mocha -D -g_
+
 Installer le module Assert (environnement dev) -> permet de tester l'égalité des champs : _npm install assert -D_
 
 1 - A la racine, créer un dossier test.
 2 - Ajouter des fichiers Email.spec.js et ValidatorService.spec.js dans le dossier test.
 
 Documentation de Mocha : https://mochajs.org/#getting-started
+
 Documentation de Assert : https://www.npmjs.com/package/assert
 
 3 - Dans les fichiers Email.spec.js et ValidatorService.spec.js, ajouter vos tests (_ex. documentation ci-dessous_) :
